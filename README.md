@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on **Web Development and IoT Projects**.
 - 💬 Ask me about **Arduino, HTML, CSS, Javascript, Python**.
 - 📫 How to reach me: 
-      ✉️ **Email**: shubhamkumarsingh528@gmail.com <br>
+      ✉️ <a href="mailto:shubhamkumarsingh528@gmail.com">**Email** </a> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> **LinkedIn**: <a href="https://www.linkedin.com/in/shubham-singh-28a747273/"> Shubham Singh </a></pre>
 - ⚡ Fun fact: I **sing** as well!🎤
 <img src="under-construction.gif">
