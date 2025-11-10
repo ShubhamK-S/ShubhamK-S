@@ -1,6 +1,5 @@
 ### Hi there! I'm Shubham <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&color=F7831B&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github+profile!;I'm+an+Embedded+Systems+Designer;And+a+Front-End+Developer!)](https://git.io/typing-svg)
 <p align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="brackets" width="100"></p>
 <p align="center">
